@@ -1,8 +1,9 @@
 ---
 title: My Journey as a Computer Science Student 🎉
 date: 2021-01-27
-published: false
+published: true
 tags: ['Markdown','Releases']
+cover_image: ./images/bunmi.jpg
 canonical_url: false
 description: "My journey as a computer science student has been adventurous, reason being that,  before I became a computer science student, I doubted many things about computer sciences. I then came to discover a lot of things concerning computer sciences which  made me want to know more then I began to  seeking for more knowledge about various aspects in computer science."
 ---
